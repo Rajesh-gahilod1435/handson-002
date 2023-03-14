@@ -1,0 +1,116 @@
+.bg{
+    background-image: url(./images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cantenair{
+    display: flex;
+    justify-content: space-around;
+    Padding-top: 10px;
+}
+.div{
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+.dhaba{
+    width: 250px;
+    height: 100px;
+    border-radius: 20px;
+    text-align: center;
+}
+.home{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    position: relative;
+    top: 15px;
+    right: 150px;
+    text-align: center;
+    
+}
+.contact{
+    width: 300px;
+    height: 150px;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+.form{
+    background-color: white;
+    border: 5px dashed red;
+    color: rgb(236, 112, 112);
+    width: 300px;
+    height: 500px;
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 10px;
+
+}
+.offer{
+    background-color: rgb(16, 197, 143);
+    width: 350px;
+    height: 350px;
+    border: 5px solid gray;
+    position: relative;
+    left: 100px;
+    font-style: italic;
+    border-radius: 350px;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.offer h3{
+    padding: 20px;
+    text-decoration: underline;
+}
+
+.menu{
+    position: relative;
+    left: 400px;
+    bottom: 100px;
+    width: 350px;
+    height: 40px;
+    margin-top: -10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: black;
+    color:white;
+    border: 5px solid red;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.chaild{
+    background-color: aqua;
+    border: 3px solid green;
+    border-radius: 10px;
+    width: 244px;
+    height: 228px;
+}
+
+
+
+
+.class{
+    display: flex;
+    justify-content: space-between;
+    height: 700px;
+    margin-top: 100px;
+}
+.lastchaild{
+    height: 280px;
+}
